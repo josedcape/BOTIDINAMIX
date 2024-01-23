@@ -1,0 +1,206 @@
+{
+  "project_info": {
+    "project_number": "75562462410",
+    "project_id": "botidinamix-a6d7b",
+    "storage_bucket": "botidinamix-a6d7b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75562462410:android:7fd4ca20040642600a5833",
+        "android_client_info": {
+          "package_name": "com.company.flutterai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75562462410-huocigdakk7e267le1og268t5mbdiikb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPdrs93qrbJORSCI2myxPhBO2vN4IG-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75562462410-huocigdakk7e267le1og268t5mbdiikb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75562462410-93e9285c444pgggblooqud720uskir4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.speechtotext"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75562462410:android:6afbfbe21ce8cfd00a5833",
+        "android_client_info": {
+          "package_name": "com.flutterflow.speechtotext"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75562462410-huocigdakk7e267le1og268t5mbdiikb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPdrs93qrbJORSCI2myxPhBO2vN4IG-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75562462410-huocigdakk7e267le1og268t5mbdiikb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75562462410-93e9285c444pgggblooqud720uskir4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.speechtotext"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75562462410:android:d9f9ba7ccd495fed0a5833",
+        "android_client_info": {
+          "package_name": "com.mycompany.asistantvoice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75562462410-hs99q6hpbtemvqflmastsg4iv0q0epbq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.asistantvoice",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "75562462410-huocigdakk7e267le1og268t5mbdiikb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPdrs93qrbJORSCI2myxPhBO2vN4IG-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75562462410-huocigdakk7e267le1og268t5mbdiikb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75562462410-93e9285c444pgggblooqud720uskir4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.speechtotext"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75562462410:android:e0dd143af3c92df70a5833",
+        "android_client_info": {
+          "package_name": "com.mycompany.botidinamix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75562462410-vc4l3gb999v5objosjpeksdrr41pn2sq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mycompany.botidinamix",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "75562462410-huocigdakk7e267le1og268t5mbdiikb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPdrs93qrbJORSCI2myxPhBO2vN4IG-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75562462410-huocigdakk7e267le1og268t5mbdiikb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75562462410-93e9285c444pgggblooqud720uskir4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.speechtotext"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75562462410:android:0d3f654084c2d1350a5833",
+        "android_client_info": {
+          "package_name": "com.mycompany.googleedtechai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75562462410-huocigdakk7e267le1og268t5mbdiikb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwPdrs93qrbJORSCI2myxPhBO2vN4IG-g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75562462410-huocigdakk7e267le1og268t5mbdiikb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "75562462410-93e9285c444pgggblooqud720uskir4b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.speechtotext"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
